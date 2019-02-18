@@ -20,7 +20,6 @@ while number_of_times < 7
 number_of_times += 7
 puts phrase
 end
-end
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
